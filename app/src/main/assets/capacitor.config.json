@@ -1,0 +1,9 @@
+{
+	"appId": "com.colombo.rush3d",
+	"appName": "Colombo Rush 3D",
+	"webDir": "dist",
+	"backgroundColor": "#1e1b4b",
+	"android": {
+		"backgroundColor": "#1e1b4b"
+	}
+}
